@@ -1,0 +1,26 @@
+Deve conseguir criar um novo Cresim com nome, pontos de higiene e energia carregados e 1500 Cresceleons  
+Deve conseguir atribuir uma aspiração ao Cresim  
+Deve validar os pontos de energia do personagem para que não passem de 32 pontos  
+Deve validar os pontos de energia do personagem para que não fiquem negativados  
+Deve conseguir dormir e receber seus pontos de energia  
+Deve conseguir comprar um item de habilidade  
+Deve validar ao tentar comprar um item de habilidade sem Cresceleons suficientes  
+Deve conseguir concluir um ciclo de treino com habilidade que não é aspiração e receber os pontos corretamente  
+Deve conseguir concluir um ciclo de treino com habilidade que é sua aspiração e receber os pontos corretamente  
+Deve perder pontos de energia ao terminar um ciclo de treino  
+Deve perder pontos de higiene ao terminar um ciclo de treino  
+Deve avançar o nivel de habilidade quando completar os pontos necessarios  
+Deve perder os pontos de energia ao trabalhar uma jornada padrão  
+Deve receber o salario do dia ao trabalhar uma jornda padrão  
+Deve receber o salario equivalente quando começar a trabalhar com os pontos de energia menores que 10  
+Deve receber o salario equivalente quando começar a trabalhar com os pontos de energia menores que 10 e pontos de higiene menores que 4  
+Deve validar para que o Cresim não consiga começar a trabalhar com os pontos de energia menores que 4  
+Deve descontar 10 Cresceleons ao tomar banho  
+Deve evoluir o relacionamento de dois Cresims para AMIZADE  
+Deve recuar o relacionamento de dois Cresims para INIMIZADE  
+Deve descontar os pontos de energia em uma interação entre dois Cresims  
+Deve conseguir aplicar o cheat SORTENAVIDA e receber as recompensas  
+Deve conseguir aplicar o cheat DEITADONAREDE e receber as recompensas  
+Deve conseguir aplicar o cheat JUNIM e receber as recompensas para a habilidade escolhida  
+Deve conseguir aplicar o cheat CAROLINAS e receber as recompensas  
+Deve conseguir aplicar o cheat SINUSITE ter a vida zerada  
